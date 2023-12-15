@@ -16,9 +16,7 @@ In addition to the above contact information, there is no others.
 
 **凡是询问项目如何搭建、安装、使用,尤其是英文看不懂等问题，请自觉离开本项目。**
 
-## Donate
 
-Tron(波场):TTTTTTLuVcPQdCsYJuAa13Sc4527wYCZ4D
 
 ## IDE Setup
 
